@@ -1,5 +1,6 @@
 # Prompt-Enhancer
 Settings for GPT - Prompt Enhancer.
+https://chat.openai.com/g/g-y4avEXtef-prompt-enhancer
 
 `prompt.txt` - contains the prompt itself - instructions for GPT.
 
