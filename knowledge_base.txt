@@ -1,0 +1,29 @@
+
+Comprehensive Knowledge Base on Various Prompt Techniques for GPT Bots
+
+1. Zero, One, Few Shots Prompting
+- Zero-Shot Prompting: Involves no example provision to the model. Relies on the model's pre-existing knowledge.
+  Example: "Write a Java interview question."
+- One-Shot Prompting: Involves providing one example to guide the model's response.
+  Example: "Here's a Java interview question from my last interview. Create a similar one."
+- Few-Shot Prompting: Involves providing multiple examples to help the model learn and adjust its responses.
+  Example: "Here are Java interview questions I usually ask. Generate a new one using these as a reference."
+
+2. Chain of Thought Prompting
+- Encourages the model to break down its response into sequential, logical steps for transparency and understanding.
+  Example: "Design a todo list application in Python, step by step."
+
+3. ASK-Before-Answer Prompting
+- Prompts the model to ask clarifying questions before providing a final answer for more accuracy.
+  Example: "Act as a solution architect for high-load applications. Before designing a URL shortening web application, ask me clarifying questions."
+
+4. Perspective Prompting & Critic Prompt & Comparative Prompting
+- Perspective Prompting: Encourages considering a problem from multiple viewpoints.
+  Singular Perspective Example: "Describe the issue of rebooting a DB cluster from a system administrator’s perspective."
+  Multiple Perspectives Example: "Discuss pros and cons of using microservices from the perspectives of a software architect, developer, and project manager."
+
+5. Prompt for Self-Checking
+- Asking the model to check its own responses for accuracy and to manage hallucinations.
+
+This knowledge base is designed to enhance interactions with GPT bots, ensuring more effective communication and response accuracy.
+
